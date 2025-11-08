@@ -83,7 +83,7 @@ window.QNT_QUESTIONS = [
     "question": "¿Qué indicador refleja inconsistencia en la experiencia del cliente?",
     "options": [
       "Aumento de NPS",
-      "Tasa de abandono de carrito y quejas por información contradictoria",
+      "Abandono de comunicación y quejas por información contradictoria",
       "Mayor recompra",
       "Mayor fidelización"
     ],
