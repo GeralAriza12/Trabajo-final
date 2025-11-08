@@ -1,5 +1,4 @@
 // QNT Millonario - Game script with ladder, 50/50 lifeline, money rewards, and simple sounds
-
 const TOTAL = 10;
 let pool = [];
 let set = [];
